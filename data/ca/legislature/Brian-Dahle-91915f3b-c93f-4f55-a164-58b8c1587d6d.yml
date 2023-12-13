@@ -7,13 +7,15 @@ image: https://www.senate.ca.gov/sites/senate.ca.gov/files/senator_photos/senato
 party:
 - name: Republican
 roles:
-- end_date: '2019-06-23'
+- start_date: '2012-12-03'
+  end_date: '2019-06-12'
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ca/government
   district: '1'
 - type: upper
   jurisdiction: ocd-jurisdiction/country:us/state:ca/government
   district: '1'
+  start_date: '2019-06-12'
 offices:
 - classification: capitol
   address: 1021 O Street, Suite 7230, Sacramento, CA 95814-4900

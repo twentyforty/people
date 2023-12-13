@@ -7,7 +7,8 @@ image: https://www.assembly.ca.gov/sites/assembly.ca.gov/files/memberphotos/rubi
 party:
 - name: Democratic
 roles:
-- type: lower
+- start_date: '2016-12-05'
+  type: lower
   jurisdiction: ocd-jurisdiction/country:us/state:ca/government
   district: '48'
 offices:
